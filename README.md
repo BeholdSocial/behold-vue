@@ -10,13 +10,13 @@ This package contains a Vue version of the [Behold embedded widget](https://beho
 Start by installing with your package manager of choice:
 
 ```jsx
-npm install @behold/Vue
+npm install @behold/vue
 
 // or
-pnpm add @behold/Vue
+pnpm add @behold/vue
 
 // or
-yarn add @behold/Vue
+yarn add @behold/vue
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ yarn add @behold/Vue
 ### 1. Import the component
 
 ```js
-import BeholdWidget from "@behold/Vue"
+import BeholdWidget from "@behold/vue"
 ```
 
 ### 2. Add to your app
